@@ -6,8 +6,6 @@ For added flexibility, this repository provides an M3U playlist featuring DaddyL
 
 You can view the full list of channels provided by DaddyLive [here](https://href.li/?https://dlhd.so/24-7-channels.php). 
 
-**Note:** Adult channels have been excluded from the English playlist. If you wish to include these channels, the playlists can be found [here](https://github.com/dtankdempse/daddylive-m3u/tree/main/adult).
-
 ## Playlist Formats
 
 ---
